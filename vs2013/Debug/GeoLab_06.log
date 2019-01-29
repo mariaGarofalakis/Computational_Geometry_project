@@ -1,0 +1,12 @@
+﻿Build started 27/4/2016 11:31:25 μμ.
+     1>Project "C:\υπολογιστική γεωμετρία\απαλακτική\vs2013\GeoLab_06.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GeoLab_06-3D.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\VVRFramework/include/MathGeoLib /IC:\VVRFramework/include/GeoLib /IC:\VVRFramework/include /ZI /nologo /W1 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /FS ..\src\SceneMesh3D.cpp
+         SceneMesh3D.cpp
+     1>c:\vvrframework\include\mathgeolib\mathgeolibfwd.h(192): error C2018: unknown character '0x60'
+     1>Done Building Project "C:\υπολογιστική γεωμετρία\απαλακτική\vs2013\GeoLab_06.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.03
